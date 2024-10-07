@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+w{
+  background-color: antiquewhite;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+/* // import { IoMdArrowDropleft } from "react-icons/io"
+// import { BsFacebbok } from "react-icons/bs"
+// import { AiFillTwitterCircle } from "react-icons/ai"
+// import  { FaCameraRetro  } from "react-iconsfa/"
+// import { IoLogoYoutube  } from "react-icons/io5"
+// import { FaPinterest  } from "react-icons/fa"
+// import { BiFontSize } from "react-icons/bi" */
+
+
+     /* <div className='flex items-start justify-center mt-10 gap-7'>
+<BsFacebbok style={{fontsize:"25px"}} />
+<AiFillTwitterCircle style={{fontsize:"25px"}} />
+<FaCameraRetro style={{fontsize:"25px"}} />
+<IoLogoYoutube style={{fontsize:"25px"}} />
+<FaPinterest style={{fontsize:"25px"}} />
+<BiFontSize style={{fontsize:"25px"}} />
+       </div>
+       <div className='text-[15px] pt-10 pb-10 flex justify-center items-center'>
+         @2010-2020 < p className='pl-4'> Privacy-terms</p>
+       </div> */
+
